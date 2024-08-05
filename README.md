@@ -4,27 +4,37 @@ Welcome to the Python Interview Preparation repository! This repository is desig
 
 ## Table of Contents
 
-1. [Factorial of a Number](#factorial-of-a-number)
-2. [Counting Vowels in a Given Word](#counting-vowels-in-a-given-word)
-3. [Count Only One Letter in a Word](#count-only-one-letter-in-a-word)
-4. [Fibonacci Numbers](#fibonacci-numbers)
-5. [Occurrence of a Character](#occurrence-of-a-character)
-6. [Alphabets Followed by Numbers](#alphabets-followed-by-numbers)
-7. [Armstrong Number](#armstrong-number)
-8. [Occurrences of Characters](#occurrences-of-characters)
-9. [Pattern Printing](#pattern-printing)
-10. [Email Domain Extraction](#email-domain-extraction)
-11. [Tuple Sorting](#tuple-sorting)
-12. [Removing Elements Based on Index](#removing-elements-based-on-index)
-13. [Difference Between Two Lists](#difference-between-two-lists)
-14. [Reordering Characters](#reordering-characters)
-15. [Character Before 't'](#character-before-t)
-16. [Sorting Values in a Dictionary](#sorting-values-in-a-dictionary)
-17. [Sum of Sublists and Finding Max/Min](#sum-of-sublists-and-finding-max-min)
-18. [Printing Prime Numbers in a List](#printing-prime-numbers-in-a-list)
-19. [Removing 'id' in Dictionary](#removing-id-in-dictionary)
-20. [Permutations](#permutations)
-21. [List Product Except Self](#list-product-except-self)
-22. [Removing Duplicates](#removing-duplicates)
-23. [Removing Specific Indexes](#removing-specific-indexes)
-24. [Removing Even Numbers](#removing-even-numbers)
+1. Factorial of a Number
+2. Counting Vowels in a Given Word
+3. Count Only One Letter in a Word
+4. Fibonacci Numbers
+5. Occurrence of a Character
+6. Alphabets Followed by Numbers
+7. Armstrong Number
+8. Occurrences of Characters
+9. Finding the Maximum Number in a List
+10. Adding Two List Elements Together
+11. Counting letters spaces and digits
+12. Couting special character
+13. Removing the spaces
+14. remove max element from list and product the remaining elemnts
+15. remove duplicates from the list
+16. Pattern Printing
+17. Email Domain Extraction
+18. Tuple Sorting
+19. Removing Elements Based on Index
+20. Difference Between Two Lists
+21. all '0' comes frist and then remaining comes after
+22. Reordering Characters
+23. Character Before 't'
+24. Sorting Values in a Dictionary
+25. Sum of Sublists and Finding Max/Min
+26. Add the number in the sub list and find the max and min in the list
+27. Printing Prime Numbers in a List
+28. Removing 'id' in Dictionary
+29. Permutations
+30. List Product Except Self
+31. Removing Duplicates
+32. Removing Specific Indexes
+33. Removing Even Numbers
+
